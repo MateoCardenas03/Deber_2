@@ -1,3 +1,4 @@
+package src;
 import java.util.Scanner;
 
 public class SecuenciaSimbolos {
@@ -28,6 +29,6 @@ public class SecuenciaSimbolos {
             System.out.println("Error: Debes ingresar un número entero válido.");
         }
         
-        lectura.close();
+        
     }
 }

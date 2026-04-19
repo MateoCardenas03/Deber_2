@@ -1,3 +1,4 @@
+package src;
 import java.util.Scanner;
 
 public class DibujarInicial {
@@ -26,7 +27,7 @@ public class DibujarInicial {
                 System.out.println("Lo siento, por ahora solo sé dibujar la A, J y L.");
         }
         
-        sc.close();
+        
     }
 
     // Método para dibujar la letra A

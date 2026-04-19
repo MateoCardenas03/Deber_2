@@ -1,3 +1,4 @@
+package src;
 public class App {
     public static void main(String[] args) {
         // Creamos una instancia de la clase SecuenciaSimbolos
