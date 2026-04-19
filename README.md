@@ -6,11 +6,11 @@
 
 ## Ejercicio 1: Secuencia de Símbolos
 **Pseudocodigo**
-![Pseudocodigo1](assets\PsedocodigoSecuenciaSimbolos.jpeg)
+![Pseudocodigo1](https://github.com/user-attachments/assets/7c49f77d-26ed-4213-8a31-1bc39c8d0bc5)
 **Diagrama de flujo**
-![DF1](assets\DFSusecionSignos.jpeg)
+![DF1](https://github.com/user-attachments/assets/daab357e-da70-44b4-813a-6e6896353b4a)
 **Traza**
-![Tra1](assets\TrazaSucesionSignos.jpeg)
+![Tra1](https://github.com/user-attachments/assets/6afc8540-9ec7-4474-a288-2a58102dc72c)
 
 **Codigo en java**
 ```java
@@ -52,11 +52,11 @@ public class SecuenciaSimbolos {
 ## Ejercicio 2: Dibujo de Inicial
 **Pseudocodigo**
 ![Tra2](https://github.com/user-attachments/assets/1e3cfb2c-b52f-48cb-b73d-7b7e2d7832d4)
-![Tra2](assets\PseudocodigoDibujarIniciales2.jpeg)
+![Tra2](https://github.com/user-attachments/assets/e2b23f27-c7cc-41e3-8091-ceeb6243571d)
 **Diagrama de flujo**
-![DF2](assets\DFDibugarInicial.jpeg)
+![DF2](https://github.com/user-attachments/assets/44f045c8-1dce-44ca-bfb0-55dd67b4f165)
 **Traza**
-![Tra2](assets\TrazaDI.jpeg)
+![Tra2](https://github.com/user-attachments/assets/1dd0661b-56ef-478f-ab7f-1222f6a154c0)
 **Codigo en java**
 ```java
 package src;
