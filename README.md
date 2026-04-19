@@ -6,8 +6,12 @@
 
 ## Ejercicio 1: Secuencia de Símbolos
 **Pseudocodigo**
+![Pseudocodigo1](assets\PsedocodigoSecuenciaSimbolos.jpeg)
 **Diagrama de flujo**
+![DF1](assets\DFSusecionSignos.jpeg)
 **Traza**
+![Tra1](assets\TrazaSucesionSignos.jpeg)
+
 **Codigo en java**
 ```java
 package src;
@@ -47,8 +51,12 @@ public class SecuenciaSimbolos {
 ```
 ## Ejercicio 2: Dibujo de Inicial
 **Pseudocodigo**
+![Tra2](assets\PsDibujoInicialres1.jpeg)
+![Tra2](assets\PseudocodigoDibujarIniciales2.jpeg)
 **Diagrama de flujo**
+![DF2](assets\DFDibugarInicial.jpeg)
 **Traza**
+![Tra2](assets\TrazaDI.jpeg)
 **Codigo en java**
 ```java
 package src;
@@ -128,8 +136,10 @@ public class DibujarInicial {
         }
     }
 }
-``
+```
+
 ## Ejecución Principal (Main)
+
 ```java
 package src;
 public class App {
@@ -145,6 +155,7 @@ public class App {
 
     }
 }
-``
-**Ejecutar la aplicacion**
-src.App
+```
+## Ejeccucion aplicacion
+javac src/*.java
+java src.App
