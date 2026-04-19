@@ -51,7 +51,7 @@ public class SecuenciaSimbolos {
 ```
 ## Ejercicio 2: Dibujo de Inicial
 **Pseudocodigo**
-![Tra2](assets\PsDibujoInicialres1.jpeg)
+![Tra2](https://github.com/user-attachments/assets/1e3cfb2c-b52f-48cb-b73d-7b7e2d7832d4)
 ![Tra2](assets\PseudocodigoDibujarIniciales2.jpeg)
 **Diagrama de flujo**
 ![DF2](assets\DFDibugarInicial.jpeg)
